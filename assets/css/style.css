@@ -53,7 +53,7 @@ header nav ul li a {
 
 header .utility {
     float: right;
-    padding-left: 100px;
+    padding-left: 230px;
     padding-top: 18px;
 }
 
@@ -63,4 +63,16 @@ header .utility a {
 
 .active {
     border-bottom: 3px solid #8B0000;
+}
+
+.login-register {
+    color: #666666;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.icon-format {
+    color: #000;
+    font-size: 18px;
 }
